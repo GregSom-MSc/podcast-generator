@@ -1,5 +1,5 @@
 name: "Podcast Generator"
-author: Samuel G. Moreno
+author: "Samuel G. Moreno"
 description: "Generates a feed for a Podcast from a YAML file."
 runs:
   using: "docker"
